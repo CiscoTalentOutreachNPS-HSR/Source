@@ -1,0 +1,23 @@
+{
+  "Goals" : {
+    "Index_1" : {
+      "deadline" : "31-10-2018",
+      "goalDetail" : "Complete chater 2 and 3",
+      "goalPriority" : "High",
+      "goalStatus" : "Open",
+      "goalType" : "Chapter completion",
+      "month" : "oct",
+      "reminderDate" : "22-10-2018",
+      "studyGroupId" : "Incredibles",
+      "subject" : "physics",
+      "username" : "Allen"
+    }
+  },
+  "User_data" : {
+    "Class" : 11,
+    "Daily_Points" : 10,
+    "Name" : "Allen Lobo",
+    "Study_Group_Id" : "The incredibles",
+    "Total_Points" : 100
+  }
+}
