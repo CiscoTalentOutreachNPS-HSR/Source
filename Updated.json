@@ -1,0 +1,122 @@
+{
+  "Calendar" : {
+    
+         "RM" : {
+    
+                  "Date" : "12/11/2018",
+     
+                  "Month" : "November",
+      
+                  "Reminder_Name" : "",
+     
+                  "Subject" : "Physics"
+    },
+    
+         "SG" : {
+     
+                  "Date_Completed" : "13/11/2018",
+  
+                  "Deadline" : "14/11/2018",
+    
+                  "Goal" : {
+    
+                            "Details" : "",
+      
+                            "ID" : "P1",
+       
+                            "Status" : "Open",
+      
+                            "Type" : "string"
+      },
+   
+                  "Imp" : "",
+    
+                  "Month" : "November",
+ 
+                  "Rem_Date" : "",
+      
+                  "Subject" : "Physics"
+    }
+  
+   },
+  
+   
+    "Health" : {
+    
+        "HealthUser" : {
+    
+                  "Date" : "12/11/2018",
+ 
+                  "Topic" : "Water",
+      
+                  "Total" : 6,
+    
+                  "Value" : 6
+    },
+   
+        "HealthyValues" : {
+     
+                  "Sleep" : {
+       
+                              "LV" : 6,
+       
+                              "UV" : 6
+      },
+
+                  "Water" : {
+      
+                              "LV" : 6,
+    
+                              "UV" : 6
+      }
+ 
+                          }
+  
+               },
+  
+    "Points" : {
+    
+        "Goal_Type" : {
+      
+                  "ChComplete" : 100
+   
+                      },
+  
+        "Rewards" : {
+     
+                  "EatChoc" : -50,
+     
+                  "Play" : -100
+
+                    }
+  
+               },
+
+    "Profile" : {
+   
+       "Prioritites" : {
+ 
+                  "Color" : "blue",
+    
+                  "Priority" : 1,
+ 
+                  "Subject" : "Math"
+
+                       },
+   
+    "UserData" : {
+   
+                  "Class" : 11,
+
+                  "Password" : "string",
+            
+      "Study_ID" : "string",
+
+                  "Total_Points" : 250,
+ 
+                  "Username" : "string"
+ 
+                    }
+
+    }
+}
